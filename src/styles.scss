@@ -16,3 +16,11 @@
 @import "./sass/sections/contact";
 @import "./sass/sections/hero";
 @import "./sass/sections/projects";
+
+
+.carousel-control-prev-icon, 
+.carousel-control-next-icon { 
+    width: 5rem; 
+    height: 5rem; 
+    
+}

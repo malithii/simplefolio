@@ -1,1 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
+
+$carousel-control-icon-width: 5rem; 
+  
+.carousel-control-prev-icon, 
+.carousel-control-next-icon { 
+    width: $carousel-control-icon-width; 
+    height: $carousel-control-icon-width; 
+}
